@@ -102,6 +102,29 @@ Your website will be live at:
 
 👉 https://Freddy85CEO.github.io/Soy-Amigo-AI
 
+## 📸 Screenshots
+
+_Add screenshots of your project here to show the UI and features._
+
+### 🖼 Home Screen
+![Home Screen](./screenshots/home.png)
+
+### 💬 Chat Interface
+![Chat Interface](./screenshots/chat.png)
+
+### 📱 Mobile View
+![Mobile View](./screenshots/mobile.png)
+
+
+## 🧭 Roadmap
+
+- [ ] Add user authentication
+- [ ] Add saved chat history
+- [ ] Add voice input support
+- [ ] Expand bilingual educational tools
+- [ ] Add mobile app version
+- [ ] Deploy Supabase-based backend features
+
 
 
 
