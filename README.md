@@ -32,4 +32,29 @@ soy-amigo-ai/
 ├── README.md               # Project documentation
 └── vite.config.ts          # Vite configuration file
 
+## ⚙️ Installation & Running Locally
+
+Follow these steps to run the project on your machine:
+
+### 1️⃣ Clone the repository
+git clone https://github.com/Freddy85CEO/Soy-Amigo-AI.git
+cd Soy-Amigo-AI
+
+### 2️⃣ Install dependencies
+npm install
+
+### 3️⃣ Set up environment variables
+Create a `.env` file in the root of the project:
+
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+
+### 4️⃣ Start the development server
+npm run dev
+
+Your app will start at:
+
+👉 http://localhost:5173/
+
+
 
