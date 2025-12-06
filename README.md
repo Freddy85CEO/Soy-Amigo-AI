@@ -56,5 +56,47 @@ Your app will start at:
 
 👉 http://localhost:5173/
 
+## 🚀 Deployment
+
+You can deploy this project using any modern frontend hosting service. Recommended options:
+
+### 1️⃣ Deploy to Vercel (Recommended)
+Vercel works beautifully with React + Vite.
+
+Steps:
+1. Go to https://vercel.com
+2. Import your GitHub repository  
+3. Vercel will auto-detect Vite
+4. Click **Deploy**
+5. Your site will be live in less than a minute
+
+### 2️⃣ Deploy to Netlify
+1. Go to https://netlify.com
+2. Click **Add New Site**
+3. Choose **Import from GitHub**
+4. Select your repository and deploy
+
+### 3️⃣ GitHub Pages (Simple Option)
+If you want a free and simple deployment:
+
+1. Install GH Pages:
+2. 2. Add these scripts to package.json:
+
+"homepage": "https://Freddy85CEO.github.io/Soy-Amigo-AI",
+"scripts": {
+  ...
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+
+3. Deploy the site:
+
+npm run deploy
+
+Your website will be live at:
+
+https://Freddy85CEO.github.io/Soy-Amigo-AI
+
+
 
 
