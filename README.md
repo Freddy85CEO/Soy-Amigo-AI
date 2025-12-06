@@ -90,8 +90,17 @@ If you want a free and simple deployment:
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
+```
 
+3. Deploy the site:
+
+```bash
 npm run deploy
+```
+
+Your website will be live at:
+
+👉 https://Freddy85CEO.github.io/Soy-Amigo-AI
 
 
 
