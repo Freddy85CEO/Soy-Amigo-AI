@@ -125,6 +125,35 @@ _Add screenshots of your project here to show the UI and features._
 - [ ] Add mobile app version
 - [ ] Deploy Supabase-based backend features
 
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you would like to improve this project:
+
+1. Fork the repository  
+2. Create a new branch  
+3. Make your changes  
+4. Submit a pull request
+
+Please make sure your contributions follow the project's style and structure.
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
+
+See the `LICENSE` file for more information.
+
+
+## 👤 Author
+
+**Freddy Estrada (Freddy85CEO)**  
+Creator of **Soy-Amigo-AI**, a bilingual assistant focused on helping Spanish-speaking communities.
+
+- GitHub: https://github.com/Freddy85CEO  
+- LinkedIn: https://www.linkedin.com/in/fredddy-estrada-diaz85  
+
+
 
 
 
