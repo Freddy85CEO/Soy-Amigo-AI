@@ -80,8 +80,10 @@ Steps:
 If you want a free and simple deployment:
 
 1. Install GH Pages:
-2. 2. Add these scripts to package.json:
 
+2. Add these scripts to package.json:
+
+```json
 "homepage": "https://Freddy85CEO.github.io/Soy-Amigo-AI",
 "scripts": {
   ...
@@ -89,13 +91,8 @@ If you want a free and simple deployment:
   "deploy": "gh-pages -d dist"
 }
 
-3. Deploy the site:
-
 npm run deploy
 
-Your website will be live at:
-
-https://Freddy85CEO.github.io/Soy-Amigo-AI
 
 
 
