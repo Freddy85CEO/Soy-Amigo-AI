@@ -16,3 +16,20 @@ A bilingual (Spanish/English) AI assistant designed to help Spanish-speaking use
 - **Lovable AI** – Used to generate UI components and accelerate development.
 - **Vite** – Fast build tool and development server.
 
+## 📁 Project Structure
+
+soy-amigo-ai/
+├── public/                 # Static assets and icons
+├── src/
+│   ├── pages/              # Main page components (ex: index.tsx)
+│   ├── components/         # UI components (ChatHeader, ChatMessage, etc.)
+│   ├── hooks/              # Custom logic and chat hooks
+│   ├── assets/             # Background images, patterns, UI graphics
+│   ├── styles/             # Global styles (Tailwind)
+│   └── supabase/           # Database & backend functions
+├── .env                    # Environment variables
+├── package.json            # Project dependencies
+├── README.md               # Project documentation
+└── vite.config.ts          # Vite configuration file
+
+
